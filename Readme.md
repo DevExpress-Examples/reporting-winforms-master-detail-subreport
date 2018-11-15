@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [DetailReport.cs](./CS/Reports/DetailReport.cs) (VB: [DetailReport.vb](./VB/Reports/DetailReport.vb))
+* **[MasterReport.cs](./CS/Reports/MasterReport.cs) (VB: [MasterReport.vb](./VB/Reports/MasterReport.vb))**
+<!-- default file list end -->
 # How to implement a master-detail report using Subreports (XRSubreport) without parameter bindings
 
 
