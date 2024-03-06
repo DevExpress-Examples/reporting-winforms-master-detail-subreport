@@ -26,7 +26,3 @@ This example shows the master-detail report created with the [XRSubreport](http
 - [Bind a Report to an Object Data Source](https://docs.devexpress.com/XtraReports/17784/detailed-guide-to-devexpress-reporting/bind-reports-to-data/business-object/bind-a-report-to-an-object-data-source)
 - [How to bind a report to a federated master-detail data source](https://github.com/DevExpress-Examples/Reporting-Bind-Report-To-Federated-Master-Detail-Data-Source)
 - [Use Subreports to Add a Chart](https://github.com/DevExpress-Examples/Reporting-Use-Subreport-To-Add-A-Chart)
-
-
-
-
