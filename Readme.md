@@ -9,8 +9,7 @@ This example shows the master-detail report created with the [XRSubreport](http
 
 ![Screenshot - Master-Detail Report with a Subreport](Images/screenshot.png)
 
-## Files to Look At
-
+## Files to Review
 - [Form1.cs](CS/dxSampleMasterDetailSubreport/Form1.cs) (VB: [Form1.vb](VB/dxSampleMasterDetailSubreport/Form1.vb))
 - [MasterReportOne.cs](CS/dxSampleMasterDetailSubreport/MasterReportOne.cs) (VB: [MasterReportOne.vb](VB/dxSampleMasterDetailSubreport/MasterReportOne.vb))
 - [CategoryProductDataSource.cs](CS/dxSampleMasterDetailSubreport/CategoryProductDataSource.cs) (VB: [CategoryProductDataSource.vb](VB/dxSampleMasterDetailSubreport/CategoryProductDataSource.vb))
