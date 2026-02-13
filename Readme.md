@@ -27,7 +27,7 @@ This example shows the master-detail report created with the [XRSubreport](http
 - [How to bind a report to a federated master-detail data source](https://github.com/DevExpress-Examples/Reporting-Bind-Report-To-Federated-Master-Detail-Data-Source)
 - [Use Subreports to Add a Chart](https://github.com/DevExpress-Examples/Reporting-Use-Subreport-To-Add-A-Chart)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-master-detail-subreport&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-master-detail-subreport&~~~was_helpful=no)
 
